@@ -1,0 +1,45 @@
+<<<2♥ = 4♠ + 5(6)♥ & 12-15 HCP>>>
+
+2♠ = to play
+2N = ask:
+    3♣ = ♣ single
+        3♦ = sets trumps, GF 
+        3♥/♠ = nat invite
+        3N = to play
+        4♣ = ♥ slam try 
+        4♦ = ♠ slam try
+    3♦ = ♦ single 
+        3♥/♠ = nat invite 
+        3N = to play 
+        4♣ = ORKC 
+        4♦ = slam try in ♥ OR ♠ 
+            4♥ = refuse  
+                4♠ = to play  
+                4N = ♥KC
+                5♣ = ♠KC 
+            4♠ = accept 
+                4N = ♥KC 
+                5♣ = ♠KC 
+    3♥ = 4522 min 
+        4♣ = relay to 4♦ (min hand) or 4♥ (max hand)
+                game = to play 
+                4N = quant invite
+            4♦♥♠N = KC in lower suit
+    3♠ = 4522 max 
+        4♣ = relay to 4♦ (min hand) or 4♥ (max hand)
+                game = to play 
+                4N = quant invite
+            4♦♥♠N = KC in lower suit
+    3N = 4522 max with Hx Hx in minors
+        4♣ = relay to 4♦ (min hand) or 4♥ (max hand)
+            game = to play 
+            4N = quant invite
+        4♦♥♠N = KC in lower suit
+        
+3m = natural & forcing
+3M = to play
+3N = to play
+4♣ = slam try in ♥ with ♠ single/void
+4♦ = slam try in ♠ with ♥ single/void
+        
+

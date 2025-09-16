@@ -1,0 +1,88 @@
+1♥ - 1♠ - 2♦:
+    2♥ = pref
+    2♠ = 6 cards nf
+    2N = invite
+    3♣ = invite with ♦ fit or GF without ♦ fit
+        3♦ = not accepting invite
+        3♥ = gf, Hx or more
+        3♠ = gf with ♠ 
+    3♦ = natural & forcing to 3N / 4♦
+    3♥ = natural invite 
+    3♠ = natural invite
+
+1♦ - 1♥ - 2♣:
+    2♦ = pref
+    2♥ = 6 cards nf
+    2♠ = invite with ♣/♦ fit OR GF without fit
+        2N = ok hand, ♠ stopper
+        3♣ = not accepting invite
+        3♦ = forcing and accepting
+    2N = invite
+    3♣ = natural & forcing to 3N / 4♣ 
+    3♦ = natural & forcing to 3N / 4♦ 
+    3♥ = natural invite
+    3♠ = pls bid 3N or splinter?
+
+1♦ - 1♠ - 2♣:
+    2♦ = pref
+    2♥ = invite with ♣/♦ fit OR GF without fit
+        2♠ = natural
+        2N = ok hand, ♥ stopper 
+        3♣ = not accepting invite
+        3♦ = forcing and accepting
+    2♠ = 6 cards nf
+    2N = invite
+    3♣ = natural and forcing to 3N / 4♣
+    3♦ = natural and forcing to 3N / 4♦
+    3♥ = pls bid 3N or splinter?
+    3♠ = natural invite
+
+1♣ - 1♦ - 2♣:
+    2♦ = forcing catch-all, including a ♣ raise
+        2♥ = Hx
+        2♠ = non-min, ♦ problem 
+        2N = natural non min
+        3♣ = min hand
+        3♦ = 4 cards non minimum
+        3♥ = 3 cards, min 
+        3♠ = ?
+        3N = max hand, ♠ & ♦ stops
+    2♥ = non-forcing but can stil play game 
+    2♠ = natural (3+) & forcing to 3♣
+        2N = ♦ Stop, non-min
+    2N = natural
+    3♣ = natural & forcing to 4♣
+    3♦ = 5+♦, GF, not interested in ♥
+    3♥ = natural invite
+
+1♣ - 1♥ - 2♣:
+    2♦ = forcing catch-all, including a ♣ raise
+    2♥ = natural and non-forcing but can still play game
+    2♠ = natural and non-forcing but can still play game
+    2N = natural
+    3♣ = natural and forcing to 4♣
+    3♦ = 5+♦, GF, not interested in ♠
+    3♥ = 5-5 invite
+    3♠ = natural invite
+
+1♣ - 1♠ - 2♣:
+    2♦ = natural and non-forcing
+    2♥ = values, forward going, can stop in 3♣
+        2♠ = good hand but can't bid 2N
+            2N = semi-stop in ♠
+            3♣ = non-forcing
+            3♦ = natural forcing
+        2N = natural
+            3♦ = natural forcing
+        3♣ = not interested
+            3♦ = natural forcing
+    2♠ = values, forward going, can stop in 3♣
+        2N = natural
+                3♦ = natural forcing
+            3♣ = not interested
+                3♦ = natural forcing
+    2N = natural
+    3♣ = non-forcing
+    3♦ = natural invite
+    3♥ = ♥ shortness
+    3♠ = ♠ shortness

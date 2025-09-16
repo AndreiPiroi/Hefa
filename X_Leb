@@ -1,0 +1,42 @@
+<<<Transfer Lebensohl>>>
+When we open 1NT (OR 1♣/♦) and opps overcall with 2♦♥♠ which shows the bid suit (and possibly others):
+    
+    X = T/O
+ 
+1NT-(2♦):
+    2♥ = nat nf
+    2♠ = nat nf
+    3♣ = ♣ invite
+    3♦ = ♥ xfer, inv+, no ♦ Stop
+    3♥ = ♠ xfer, inv+, no ♦ Stop
+    3♠ = ♣ xfer, no ♦ Stop
+    3N = ♦ Stop, To Play
+    2N = relay to 3♣:
+        3♦ = ♥ xfer, inv+, ♦ Stop
+        3♥ = ♠ xfer, inv+,  ♦ Stop
+        3♠ = ♣ xfer, inv+, ♦ Stop
+        3N = No ♦ Stop, To Play
+
+1NT-(2♥):
+    2♠ = nat nf
+    3♣ = ♦ xfer, inv+
+    3♦ = ♠ xfer, inv+, no ♥ Stop
+    3♥ = ♣ xfer, GF
+    3♠ = Stopper ask
+    3N = ♥ Stop, to play
+    2N = relay to 3♣:
+        3♦ = to play
+        3♥ = ♠ xfer, ♥ Stop
+        3♠ = SI no 4♠, ♥ Stop
+        3N = No ♥ Stop, to play
+
+1NT-(2♠):
+    3♣ = ♦ xfer, inv+
+    3♦ = ♥ xfer, inv+
+    3♥ = ♣ xfer, GF
+    3♠ = Stopper ask
+    3N = ♠ Stop, To play
+    2N = relay to 3♣:
+        3♦ = to play
+        3♥ = to play
+        3♠ = SI no 4♥, ♠ Stop

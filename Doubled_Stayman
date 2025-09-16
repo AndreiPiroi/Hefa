@@ -1,0 +1,21 @@
+1N - (p) - 2♣ - (X):
+    Pass = no ♣ stop         
+        2♦ = garbage   
+        2♥ = garbage
+        2♠ = nat invite
+        2N = nat invite 
+        3M = reverse Smolen  
+        XX = Stayman
+            2♦ = 4♥ 
+            2♥ = 4♠ 
+            2♠ = no 4 card M 
+            2N = 44M Min  
+            3♣ = 44M Max
+    2♦/♥/♠ = ♣ stop, usual meaning
+    XX = Good ♣, suggests playing here  
+        2♦ = garbage
+        2♥ = garbage
+        2♠ = nat invite 
+        2N = nat invite
+        3♣ = Stayman
+        3M = normal Smolen
