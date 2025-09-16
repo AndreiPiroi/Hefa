@@ -1,0 +1,34 @@
+<<<Constructive bidding>>>
+
+1M - fit on 2-level:
+    2N = Game or slam interest:
+        3X = opening hand and values there -> GF
+            3N = to play
+        3N = 12-14 bal spread out
+        4X = minimum accept with concentrated values
+    2♠ or 3X = slam try, step responses:
+        1 = no AKQ in that suit
+            step
+                1 = single
+                2 = XX
+                3 = xxx
+                4 = xxxx
+                5 = xxxxx
+        2 = Q or AK 
+            step
+        3 = K or AQ 
+        4 = A or KQ
+        5 = void
+
+1M - 2N = GF with 4+ trumps:
+    3♣ = min with shortness:
+        3♦ = ask
+            3♥/♠/N = lo-hi
+    3♦ = non-min with shortness:
+        3♥ = ask
+            3♠/3N/4♣ = lo-hi
+    3♥ = 11-13 no shortness but nice hand
+    3♠ = 14-16 no shortness 
+    3N = 17-19 no shortness
+    4X = 2 suiter, good hand
+    4M = 9-12 trash
