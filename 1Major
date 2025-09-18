@@ -6,7 +6,7 @@
             3N = to play
         3N = 12-14 bal spread out
         4X = minimum accept with concentrated values
-    2♠ or 3X = slam try, step responses:
+    3 minor = slam try, step responses: (note: 1h - 2d - 2sp, 1sp - 2h - 3h natural)
         1 = no AKQ in that suit
             step
                 1 = single
@@ -14,10 +14,10 @@
                 3 = xxx
                 4 = xxxx
                 5 = xxxxx
-        2 = Q or AK - does opener query after this, or is everything a cue? 1sp - 2h - 3h - 3nt - 4cl ?
-            step
-        3 = K or AQ 
-        4 = A or KQ
+        2 = A (or KQ)
+	3 = K (or AQ)
+	4 = (Q or AK)
+	After 2 or 3, next bid checks number of cards; after that, next bid is keycards
         5 = void
 
 
@@ -36,22 +36,20 @@
 
 
 
-1M - 2cl:
-
-2C = ANY GF without a 3+ card fit
-
+1M - 2cl: ANY GF without a 3+ card fit
 
 	2D = nothing to say, 8-13 5 cards possibly 4-5 in a minor
 		2OM = a non-rebiddable club or diamond game forcing; 2nt asks
 		2NT = natural forcing, usually 15+ bal or 1 or 2 minors
-		2M/3M natural set trump; 3M shows extras with real slam interest; 4M can have controls outside but no real slam interest
-			To discuss: serious 3NT? Also ok to not play it. 
+		2M 2 cards
+		3M exception hand - lots of cards, fit 3
 		3cl, 3d = rebiddable minor, sets trump except next bid is 3nt
 	2M = 6 cards 8-17
 		2NT, 3H, 4H natural
 		3m natural, denies fit
-	2 oM = natural. Should be all the hands stronger than Flannery when opening 1h.
-	3 m = natural, extras
+	2 oM = natural, 16+
+	3 m = natural, extras, 14+ 5-4+
+	2NT = 14-16, possibly 5-4-2-2
 	3M = 6 cards 17+, cuebids agree the major
 	3h after 1sp = natural 5-5 17+
 	3sp after 1h, and 4cl / 4d = short, 1 suiter strongest hand
@@ -59,7 +57,8 @@
 	
 1h - 2sp = cl invite; 3cl = d invite
 1sp - 3cl/d = invites
-1M – 3NT 13-15 choice of games; to discuss - or 2 way splinters
+
+1M – 3NT: 1h - 3sp any mini splinter, 3NT splinter spades. 1sp - 3NT mini splinter, "pe gura". 1sp - 4h SPLINTER!
 
 
 
@@ -69,7 +68,6 @@
 
 Because of the above: a) 1sp – 1nt – 3d or 3sp = 15-17 NF, same for 1h - 1nt - 3m (!) b) 1sp – 1nt – 3h = gf 5-5 (!)
 
-1sp - 2cl - 2h - 2sp does not deny 4h; responder can have 4h and fit them at the 3 level. 1sp - 2m - 2h - 2sp - 2NT/3cl/3d - 3h fit (!)
 
 
 
