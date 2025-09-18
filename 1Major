@@ -14,11 +14,12 @@
                 3 = xxx
                 4 = xxxx
                 5 = xxxxx
-        2 = Q or AK 
+        2 = Q or AK - does opener query after this, or is everything a cue? 1sp - 2h - 3h - 3nt - 4cl ?
             step
         3 = K or AQ 
         4 = A or KQ
         5 = void
+
 
 1M - 2N = GF with 4+ trumps:
     3♣ = min with shortness:
@@ -32,3 +33,43 @@
     3N = 17-19 no shortness
     4X = 2 suiter, good hand
     4M = 9-12 trash
+
+
+
+1M - 2cl:
+
+2C = ANY GF without a 3+ card fit
+
+
+	2D = nothing to say, 8-13 5 cards possibly 4-5 in a minor
+		2OM = a non-rebiddable club or diamond game forcing; 2nt asks
+		2NT = natural forcing, usually 15+ bal or 1 or 2 minors
+		2M/3M natural set trump; 3M shows extras with real slam interest; 4M can have controls outside but no real slam interest
+			To discuss: serious 3NT? Also ok to not play it. 
+		3cl, 3d = rebiddable minor, sets trump except next bid is 3nt
+	2M = 6 cards 8-17
+		2NT, 3H, 4H natural
+		3m natural, denies fit
+	2 oM = natural. Should be all the hands stronger than Flannery when opening 1h.
+	3 m = natural, extras
+	3M = 6 cards 17+, cuebids agree the major
+	3h after 1sp = natural 5-5 17+
+	3sp after 1h, and 4cl / 4d = short, 1 suiter strongest hand
+
+	
+1h - 2sp = cl invite; 3cl = d invite
+1sp - 3cl/d = invites
+1M – 3NT 13-15 choice of games; to discuss - or 2 way splinters
+
+
+
+1h – 1NT – 2sp : a) reverse h-sp b) 6+ h GF c) 5-4 (5) with a minor. 2NT relay (all else weak). Opener bids: 3cl/d 5 cards, 3h hearts, 3NT 5-4 m (minor is unknown), 3sp 4-5 sp.
+
+1sp – 1nt – 3cl : a) gf 6+ sp b) gf 6-4 h c) gf with a minor 5-4(5). 3d relay (all else weak), then 3h 4h, 3sp sp, 4cl/d 5-5, 3nt minor 5-4
+
+Because of the above: a) 1sp – 1nt – 3d or 3sp = 15-17 NF, same for 1h - 1nt - 3m (!) b) 1sp – 1nt – 3h = gf 5-5 (!)
+
+1sp - 2cl - 2h - 2sp does not deny 4h; responder can have 4h and fit them at the 3 level. 1sp - 2m - 2h - 2sp - 2NT/3cl/3d - 3h fit (!)
+
+
+
